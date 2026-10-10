@@ -1,0 +1,84 @@
+{
+ "WR": {
+  "combine_players": 107,
+  "eligible_drills": [
+   "COMEBACK_ROUTE_RIGHT",
+   "CURL_ROUTE_RIGHT",
+   "DAGGER_ROUTE_LEFT",
+   "GAUNTLET_DRILL",
+   "GO_ROUTE_RIGHT",
+   "OVER_SHOULDER_ADJUST",
+   "POST_CORNER_ROUTE_RIGHT",
+   "RED_ZONE_FADE_RIGHT",
+   "SLANT_ROUTE_LEFT",
+   "SLOT_SAIL_ROUTE_RIGHT",
+   "SLOT_STRIKE_ROUTE_LEFT",
+   "SPEED_OUT_ROUTE_LEFT"
+  ],
+  "n_eligible": 12,
+  "players_with_composites": 103,
+  "attempts": 1529,
+  "single_attempt_drills": [
+   "COMEBACK_ROUTE_RIGHT",
+   "CURL_ROUTE_RIGHT",
+   "DAGGER_ROUTE_LEFT",
+   "GO_ROUTE_RIGHT",
+   "OVER_SHOULDER_ADJUST",
+   "RED_ZONE_FADE_RIGHT",
+   "SLANT_ROUTE_LEFT",
+   "SLOT_SAIL_ROUTE_RIGHT",
+   "SLOT_STRIKE_ROUTE_LEFT"
+  ],
+  "median_sb": 0.7157932778067961,
+  "n_sb_cells": 12
+ },
+ "OL": {
+  "combine_players": 121,
+  "eligible_drills": [
+   "FIVE_YARD_WAVE_DRILL_SLIDE_AND_SHUFFLE",
+   "OL_PULL_DRILL_DEEP_SHORT_PULL_LEFT",
+   "OL_PULL_DRILL_FOLD_BLOCK_RIGHT",
+   "PASS_PRO_MIRROR_DRILL",
+   "PASS_RUSH_DROP",
+   "SCREEN_DRILL"
+  ],
+  "n_eligible": 6,
+  "players_with_composites": 121,
+  "attempts": 910,
+  "single_attempt_drills": [
+   "FIVE_YARD_WAVE_DRILL_SLIDE_AND_SHUFFLE",
+   "OL_PULL_DRILL_DEEP_SHORT_PULL_LEFT",
+   "OL_PULL_DRILL_FOLD_BLOCK_RIGHT",
+   "PASS_PRO_MIRROR_DRILL",
+   "SCREEN_DRILL"
+  ],
+  "median_sb": 0.36405244686699423,
+  "n_sb_cells": 4
+ },
+ "DB": {
+  "combine_players": 122,
+  "eligible_drills": [
+   "BACK_PEDAL_AND_90_DEGREE_BREAK_TO_BALL",
+   "BACK_PEDAL_AND_TRANSITION_45_DEGREE_REACTION",
+   "BOX_DRILL",
+   "GAUNTLET_DRILL",
+   "LINE_DRILL",
+   "TERYL_AUSTIN_DRILL_1",
+   "TERYL_AUSTIN_DRILL_2",
+   "W_DRILL"
+  ],
+  "n_eligible": 8,
+  "players_with_composites": 122,
+  "attempts": 1170,
+  "single_attempt_drills": [
+   "BACK_PEDAL_AND_90_DEGREE_BREAK_TO_BALL",
+   "BOX_DRILL",
+   "GAUNTLET_DRILL",
+   "TERYL_AUSTIN_DRILL_1",
+   "TERYL_AUSTIN_DRILL_2",
+   "W_DRILL"
+  ],
+  "median_sb": 0.5795219672507038,
+  "n_sb_cells": 8
+ }
+}

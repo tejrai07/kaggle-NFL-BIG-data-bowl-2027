@@ -1,0 +1,24 @@
+{
+ "true_inc_0.00": {
+  "reliability_0.4": 0.03333333333333333,
+  "reliability_0.8": 0.06666666666666667
+ },
+ "true_inc_0.03": {
+  "reliability_0.4": 0.06666666666666667,
+  "reliability_0.8": 0.18333333333333332
+ },
+ "true_inc_0.05": {
+  "reliability_0.4": 0.24166666666666667,
+  "reliability_0.8": 0.35
+ },
+ "true_inc_0.10": {
+  "reliability_0.4": 0.23333333333333334,
+  "reliability_0.8": 0.6083333333333333
+ },
+ "note": "Monte-Carlo SE about +/-0.045 per cell (120 sims); non-monotone cells reflect simulation noise.",
+ "riley_criterion_i_n_required": {
+  "p15_R2_0.2": 596.8618715051964,
+  "p15_R2_0.1": 1273.528052355564,
+  "p5_R2_0.1": 424.50935078518796
+ }
+}

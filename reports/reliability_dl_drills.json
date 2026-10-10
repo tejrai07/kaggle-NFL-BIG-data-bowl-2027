@@ -1,0 +1,138 @@
+{
+ "PASS_RUSH_DRILL|peak_speed": {
+  "n": 106,
+  "r": 0.627800566030761,
+  "sb": 0.7713482586648729
+ },
+ "PASS_RUSH_DRILL|peak_accel": {
+  "n": 106,
+  "r": 0.19980591932863462,
+  "sb": 0.33306373324185357
+ },
+ "PASS_RUSH_DRILL|peak_brake": {
+  "n": 106,
+  "r": 0.23041305998626735,
+  "sb": 0.3745296071367107
+ },
+ "PASS_RUSH_DRILL|max_turn_rate": {
+  "n": 106,
+  "r": 0.19599735923010622,
+  "sb": 0.3277555050059219
+ },
+ "FRONT_START_WAVE_DRILL_AND_LATERAL_REACTION|peak_speed": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FRONT_START_WAVE_DRILL_AND_LATERAL_REACTION|peak_accel": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FRONT_START_WAVE_DRILL_AND_LATERAL_REACTION|peak_brake": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FRONT_START_WAVE_DRILL_AND_LATERAL_REACTION|max_turn_rate": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "BODY_CONTROL_DRILL|peak_speed": {
+  "n": 2,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "BODY_CONTROL_DRILL|peak_accel": {
+  "n": 2,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "BODY_CONTROL_DRILL|peak_brake": {
+  "n": 2,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "BODY_CONTROL_DRILL|max_turn_rate": {
+  "n": 2,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FOUR_BAG_AGILITY_DRILL|peak_speed": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FOUR_BAG_AGILITY_DRILL|peak_accel": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FOUR_BAG_AGILITY_DRILL|peak_brake": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "FOUR_BAG_AGILITY_DRILL|max_turn_rate": {
+  "n": 112,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "RUN_THE_HOOP_DRILL|peak_speed": {
+  "n": 10,
+  "r": 0.486776624154006,
+  "sb": 0.6548080138547885
+ },
+ "RUN_THE_HOOP_DRILL|peak_accel": {
+  "n": 10,
+  "r": 0.3849626387307759,
+  "sb": 0.5559177236485859
+ },
+ "RUN_THE_HOOP_DRILL|peak_brake": {
+  "n": 10,
+  "r": 0.6363781957234126,
+  "sb": 0.7777886522645597
+ },
+ "RUN_THE_HOOP_DRILL|max_turn_rate": {
+  "n": 10,
+  "r": 0.6824352815181239,
+  "sb": 0.8112469929926068
+ },
+ "RUN_AND_CLUB_DRILL|peak_speed": {
+  "n": 1,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "RUN_AND_CLUB_DRILL|peak_accel": {
+  "n": 1,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "RUN_AND_CLUB_DRILL|peak_brake": {
+  "n": 1,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ },
+ "RUN_AND_CLUB_DRILL|max_turn_rate": {
+  "n": 1,
+  "r": null,
+  "sb": null,
+  "note": "single attempt per player; test-retest not estimable"
+ }
+}

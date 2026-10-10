@@ -1,0 +1,190 @@
+{
+ "WR": {
+  "snaps": 31035,
+  "players": 83,
+  "sep_mean": 3.1096066698895304,
+  "sep_sd": 2.115619010259509,
+  "resid_sd": 1.8375198874605168,
+  "r2_snap_model": 0.24562172178587793,
+  "cushion_missing": 0.053165780570323826,
+  "align": {
+   "WR": 18923,
+   "SLOT_WR": 10881,
+   "TE": 1029,
+   "OTHER": 202
+  },
+  "min100": {
+   "players": 63,
+   "snaps": 30347,
+   "eb_reliability_formula": 0.7681942785417087,
+   "split_half_game_parity_sb": 0.7206650623796166,
+   "n_split": 63,
+   "by_class": {
+    "2023": 29,
+    "2024": 19,
+    "2025": 15
+   }
+  },
+  "min50": {
+   "players": 69,
+   "snaps": 30746,
+   "eb_reliability_formula": 0.710632405883531,
+   "split_half_game_parity_sb": 0.6638314556680873,
+   "n_split": 69,
+   "by_class": {
+    "2023": 29,
+    "2024": 23,
+    "2025": 17
+   }
+  },
+  "min200": {
+   "players": 45,
+   "snaps": 27478,
+   "eb_reliability_formula": 0.708849738374724,
+   "split_half_game_parity_sb": 0.6425285111097156,
+   "n_split": 45,
+   "by_class": {
+    "2023": 23,
+    "2024": 14,
+    "2025": 8
+   }
+  },
+  "rookie50": {
+   "players": 63,
+   "snaps": 14519,
+   "eb_reliability_formula": 0.6713314281331019,
+   "split_half_game_parity_sb": 0.5558108728432586,
+   "n_split": 63,
+   "by_class": {
+    "2023": 26,
+    "2024": 20,
+    "2025": 17
+   }
+  }
+ },
+ "OL": {
+  "snaps": 48528,
+  "players": 89,
+  "pressure_rate": 0.08450791295746786,
+  "phat_sd": 0.025793013990025513,
+  "align": {
+   "G": 21893,
+   "T": 20056,
+   "C": 6420,
+   "OTHER": 159
+  },
+  "rushers_encountered_zero_share": 0.04484009231783712,
+  "min100": {
+   "players": 66,
+   "snaps": 47835,
+   "eb_reliability_formula": 0.6395057745219512,
+   "split_half_game_parity_sb": 0.39957484029793,
+   "n_split": 66,
+   "by_class": {
+    "2023": 23,
+    "2024": 23,
+    "2025": 20
+   }
+  },
+  "min50": {
+   "players": 70,
+   "snaps": 48126,
+   "eb_reliability_formula": 0.5429035187204235,
+   "split_half_game_parity_sb": 0.3004997562317439,
+   "n_split": 70,
+   "by_class": {
+    "2023": 24,
+    "2024": 26,
+    "2025": 20
+   }
+  },
+  "min200": {
+   "players": 60,
+   "snaps": 46904,
+   "eb_reliability_formula": 0.6374423687466241,
+   "split_half_game_parity_sb": 0.38213954208673684,
+   "n_split": 60,
+   "by_class": {
+    "2023": 22,
+    "2024": 22,
+    "2025": 16
+   }
+  },
+  "rookie50": {
+   "players": 58,
+   "snaps": 24356,
+   "eb_reliability_formula": 0.5035489109488539,
+   "split_half_game_parity_sb": 0.23592946854936173,
+   "n_split": 58,
+   "by_class": {
+    "2023": 18,
+    "2024": 20,
+    "2025": 20
+   }
+  }
+ },
+ "DB_physical": {
+  "selected": 35646,
+  "usable": 25745,
+  "excluded": {
+   "window<2s_or_truncated": 5548,
+   "no_pass_forward": 4344,
+   "snap_events!=1": 9
+  },
+  "players": 92,
+  "max_speed_mean": 4.778493299669838,
+  "max_speed_sd": 1.4972340493715424,
+  "resid_sd": 1.3660120366281128,
+  "r2_snap_model": 0.16760461796602144,
+  "lined_up": {
+   "CB": 11696,
+   "HIGH_SAFETY": 8538,
+   "SLOT_CB": 5511
+  },
+  "man_share": 0.24358127791804235,
+  "min100": {
+   "players": 62,
+   "snaps": 24809,
+   "eb_reliability_formula": 0.8676719555454254,
+   "split_half_game_parity_sb": 0.8360951310620898,
+   "by_class": {
+    "2023": 20,
+    "2024": 27,
+    "2025": 15
+   }
+  },
+  "min50": {
+   "players": 68,
+   "snaps": 25298,
+   "eb_reliability_formula": 0.8356569634293425,
+   "split_half_game_parity_sb": 0.80310388535395,
+   "by_class": {
+    "2023": 23,
+    "2024": 27,
+    "2025": 18
+   }
+  },
+  "min200": {
+   "players": 45,
+   "snaps": 22248,
+   "eb_reliability_formula": 0.887434116155283,
+   "split_half_game_parity_sb": 0.8140012424351757,
+   "by_class": {
+    "2023": 16,
+    "2024": 22,
+    "2025": 7
+   }
+  },
+  "rookie50": {
+   "players": 62,
+   "snaps": 12376,
+   "eb_reliability_formula": 0.7759341724401411,
+   "split_half_game_parity_sb": 0.6849987618062444,
+   "by_class": {
+    "2023": 18,
+    "2024": 26,
+    "2025": 18
+   }
+  }
+ }
+}
